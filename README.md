@@ -10,3 +10,9 @@ Projeto feito no curso da Alura: **"HTML e CSS: responsividade com mobile-first"
 <h1>Linguagens</h1>
 
 **HTML, CSS**
+<h1>Funcionalidades e Demonstração da Aplicação</h1>
+
+<h1>Desenvolvedores/Contribuintes</h1>
+
+[<img src="![octocat-1689702612016](https://github.com/Maisalesart/Alurabooks/assets/122944623/c4ed8b78-c9fa-46bb-9622-ca14b630485f)
+" width=115><br><sub>Maisa Araujo</sub>]([https://github.com/Maisalesart])
